@@ -3,17 +3,17 @@ import { MapPin, Award, Briefcase, GraduationCap } from 'lucide-react';
 
 const experiences = [
   {
-    year: '2023 - Sekarang',
-    title: 'Instruktur Network & Server',
-    location: 'Lembaga Pelatihan IT Nasional',
-    description: 'Mengajar materi administrasi server Linux dan manajemen jaringan Cisco/Mikrotik untuk sertifikasi industri.',
+    year: '2013 - Sekarang',
+    title: 'Assesor Ujikompetensi',
+    location: 'PT ForIt Solusindo',
+    description: 'Menguji Siswa dalam pelaksanaan Uji Kompetensi di sekolah bada bidang network dan system Administrator cisco/Mikrotik.',
     icon: Award,
   },
   {
-    year: '2020 - 2023',
+    year: '2010 - 2026',
     title: 'Guru Produktif TKJ',
-    location: 'SMK Teknologi Informatika',
-    description: 'Membimbing siswa dalam praktikum perakitan komputer, instalasi OS, dan dasar-dasar jaringan komputer.',
+    location: 'SMKN 2 Baleendah',
+    description: 'Membimbing siswa dalam praktikum Server dengan debian dan ubuntu, Network cisco dan mikrotik, fiber optik, IOT.',
     icon: GraduationCap,
   },
   {
