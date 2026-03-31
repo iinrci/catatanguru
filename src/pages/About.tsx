@@ -12,7 +12,7 @@ export default function About() {
         <div className="text-center space-y-4">
           <div className="w-32 h-32 bg-zinc-200 rounded-full mx-auto overflow-hidden border-4 border-white shadow-xl">
             <img 
-              src="https://picsum.photos/seed/teacher/400/400" 
+              src="https://sisfo.bnsp.go.id/gambar/lIp6CP2fNLJwHGdYkoZmetzy5Snvj4hX.jpg" 
               alt="Profile" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
